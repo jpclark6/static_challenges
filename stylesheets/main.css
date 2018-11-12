@@ -1,0 +1,48 @@
+#page-header {
+  background-color: DarkRed;
+  margin: 0;
+  color: #FFF;
+  padding: 20 20 10px 10px;
+  overflow: auto;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 28px
+}
+
+#page-header u {
+  font-size: 12px
+}
+
+#areas {
+  background-color: #2E2626;
+  margin: 0;
+  color: #FFF;
+  padding: 20 20 10px 10px;
+  overflow: auto;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 14px
+}
+
+#page-wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  background-color: white;
+}
+
+img.hasBorder {
+  border:25px solid White;
+}
+
+#main-body {
+  background-color: White;
+}
+
+#denver-header {
+  font-size: 18px
+}
